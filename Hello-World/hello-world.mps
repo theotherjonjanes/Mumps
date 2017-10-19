@@ -1,1 +1,5 @@
-hello() w "Hello, World!",! q
+hello() w "Hello world!",! q
+
+hello()
+  write "Hello, World!",!
+  quit
